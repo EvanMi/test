@@ -1,0 +1,3 @@
+JMH S 22 org.sample.MyBenchmark S 52 org.sample.jmh_generated.MyBenchmark_testAdd_jmhTest S 7 testAdd S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 2 T 3 1 s E I 3 100 E E E E E E U 11 NANOSECONDS E E 
+JMH S 22 org.sample.MyBenchmark S 52 org.sample.jmh_generated.MyBenchmark_testCas_jmhTest S 7 testCas S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 2 T 3 1 s E I 3 100 E E E E E E U 11 NANOSECONDS E E 
+JMH S 22 org.sample.MyBenchmark S 53 org.sample.jmh_generated.MyBenchmark_testLock_jmhTest S 8 testLock S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 2 T 3 1 s E I 3 100 E E E E E E U 11 NANOSECONDS E E 
